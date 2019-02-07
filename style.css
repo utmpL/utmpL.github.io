@@ -1,10 +1,18 @@
+a {
+  color: rgb(226, 226, 226);
+}
+
 .error {
   color: rgb(226, 226, 226);
   font-size: 30px;
   background-color: rgb(87, 87, 87);
   border: 1px solid rgb(0, 0, 0);
+  border-radius: 25px;
   margin: 7px;
   padding: 7px;
+  opacity: 0.9;
+  box-shadow: 3px 3px 7px rgb(0, 0, 0);
+  width: 60px;
 }
 
 .error:hover {
