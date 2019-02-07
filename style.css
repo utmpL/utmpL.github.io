@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.main_text {
+  color: rgb(116, 180, 255);
+  font-size: 50px;
+  margin-top: 100px;
+  transition: 0.5s;
+}
+
+.main_text:hover {
+  transform: translate(0px,  -5px);
+}
