@@ -16,7 +16,9 @@ a.button7 {
   box-shadow: 0 -3px rgb(0, 0, 0) inset;
   transition: 0.2s;
 }
-a.button7:hover { background: rgb(99, 66, 119); }
+a.button7:hover {
+  background: rgb(99, 66, 119);
+ }
 a.button7:active {
   background: rgb(99, 66, 119);
 }
